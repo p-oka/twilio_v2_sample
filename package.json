@@ -1,0 +1,22 @@
+{
+  "name": "twilio_v2_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/p-oka/twilio_v2_sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p-oka/twilio_v2_sample/issues"
+  },
+  "homepage": "https://github.com/p-oka/twilio_v2_sample#readme",
+  "dependencies": {
+    "twilio-video": "^2.0.0-beta12"
+  }
+}
